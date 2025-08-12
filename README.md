@@ -9,11 +9,17 @@
 http://localhost:5173/
 
 эндпоинты: 
+
 /product/delete
+
 /products
+
 /product/add
+
 /users/current
+
 auth/register
+
 auth/token
 
 логин: Masha
