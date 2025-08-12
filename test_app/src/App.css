@@ -1,0 +1,24 @@
+#root{
+  width: 100%;
+  min-height:1080px;
+  margin:0;
+  padding: 0;
+}
+body{
+  margin:0;
+  padding: 0;
+}
+.Header{
+    max-height: 100px;
+    min-width: 100%;
+    background-color: aqua;
+    color:black;
+}
+.title{
+float:left;
+}
+.links{
+  float:right;
+  margin-right:50px;
+  margin-top:50px;
+}

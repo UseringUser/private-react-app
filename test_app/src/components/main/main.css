@@ -1,0 +1,5 @@
+.main{
+    min-width:100%;
+    display: grid;
+    place-items: center; /* Centers both horizontally and vertically */
+}
